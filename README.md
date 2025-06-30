@@ -13,12 +13,12 @@ The system integrates a **PyQt-based Desktop GUI** and a **Flask Web Interface**
 ## ⚙️ Features
 
 ✅ Real-time abnormal activity detection from video streams
-✅ Supports activities like: `Burglary`, `Abuse`, `Arrest`, `Drowsiness`, `Theft`, and more
+✅ Supports activities like: `Burglary`, `Abuse`, `Arrest`
 ✅ Deep Learning-based detection using CNN + RNN + Vision Transformers
-✅ PyQt5 GUI for Desktop Monitoring
-✅ Flask Web Server for Remote Access
+✅ PyQt5 GUI for Desktop Monitoring (ongoing)
+✅ Flask Web Server for Remote Access (ongoing)
 ✅ Lightweight model optimizations for faster inference
-✅ Supports live webcam feeds or pre-recorded videos
+✅ Supports live webcam feeds or pre-recorded videos 
 
 ---
 
